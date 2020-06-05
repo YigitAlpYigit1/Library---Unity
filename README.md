@@ -1,2 +1,2 @@
 # Library---Unity
-Kütüphanemizdeki kitapların listesini bulabileceğimiz UNITY uygulaması
+Kütüphanemizdeki kitapların listesini tutabileceğimiz UNITY uygulaması
